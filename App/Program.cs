@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace mob_programming_dotnet;
+
+public static class FizzBuzz
+{
+    public static string Run()
+    {
+        throw new NotImplementedException("Not implemented");
+    }
+}
